@@ -1,0 +1,8 @@
+E:\Assisted\Assisted-Interfaces\Assisted-Interfaces\bin\Debug\Assisted-Interfaces.exe.config
+E:\Assisted\Assisted-Interfaces\Assisted-Interfaces\bin\Debug\Assisted-Interfaces.exe
+E:\Assisted\Assisted-Interfaces\Assisted-Interfaces\bin\Debug\Assisted-Interfaces.pdb
+E:\Assisted\Assisted-Interfaces\Assisted-Interfaces\obj\Debug\Assisted-Interfaces.csproj.AssemblyReference.cache
+E:\Assisted\Assisted-Interfaces\Assisted-Interfaces\obj\Debug\Assisted-Interfaces.csproj.SuggestedBindingRedirects.cache
+E:\Assisted\Assisted-Interfaces\Assisted-Interfaces\obj\Debug\Assisted-Interfaces.csproj.CoreCompileInputs.cache
+E:\Assisted\Assisted-Interfaces\Assisted-Interfaces\obj\Debug\Assisted-Interfaces.exe
+E:\Assisted\Assisted-Interfaces\Assisted-Interfaces\obj\Debug\Assisted-Interfaces.pdb
